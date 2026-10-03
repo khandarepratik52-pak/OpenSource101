@@ -11,6 +11,7 @@ For this activity, you don't need to know Git commands or understand complicated
 ---
 
 ## How does this work?
+Pratik A K
 
 The basic flow is:
 
